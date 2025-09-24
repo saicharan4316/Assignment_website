@@ -1,0 +1,18 @@
+.contact {
+  padding: 50px 20px;
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+.contact h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #0d1b2a;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
